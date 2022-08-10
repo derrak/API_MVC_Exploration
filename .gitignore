@@ -1,0 +1,4 @@
+*/EnvironmentVariables.cs
+obj/
+bin/
+.DS_Store
